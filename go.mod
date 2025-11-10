@@ -1,10 +1,8 @@
 module github.com/ankddev/gh-fork-sync
 
-go 1.23.1
+go 1.25.0
 
-toolchain go1.24.1
-
-require github.com/cli/go-gh/v2 v2.12.2
+require github.com/cli/go-gh/v2 v2.13.0
 
 require github.com/kr/pretty v0.3.1 // indirect
 
